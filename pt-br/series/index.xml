@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Asif Reza Chowdhury</title>
-    <link>http://www.asifreza.com/pt-br/series/</link>
+    <link>https://asifrezac.github.io/pt-br/series/</link>
     <description>Recent content in Series on Asif Reza Chowdhury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.asifreza.com/pt-br/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asifrezac.github.io/pt-br/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
