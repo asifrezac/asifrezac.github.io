@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "http://www.asifreza.com"
+title = "Asif Reza Chowdhury"
 
 theme = "hugo-coder"
 
@@ -15,9 +15,9 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
+    author = "Asif Reza Chowdhury"
+    description = "Asif Reza's personal website"
+    keywords = "blog,analyst,personal"
     info = "Full Stack DevOps and Magician"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
